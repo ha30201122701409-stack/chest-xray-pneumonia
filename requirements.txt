@@ -1,0 +1,15 @@
+torch>=2.2.0
+torchvision>=0.17.0
+opencv-python-headless>=4.9.0
+Pillow>=10.2.0
+numpy>=1.26.4,<2
+scikit-learn>=1.4.1
+matplotlib>=3.8.3
+seaborn>=0.13.2
+tqdm>=4.66.2
+fastapi>=0.110.0
+uvicorn>=0.29.0
+python-multipart>=0.0.9
+pydantic>=2.6.4
+streamlit>=1.33.0
+requests>=2.31.0
